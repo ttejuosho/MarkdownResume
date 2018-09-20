@@ -2,7 +2,7 @@ Taiwo Tejuosho
 ===============
 
                             312-647-6896 • ttejuosho@outlook.com • 60615, Chicago, IL
-     github.com/ttejuosho • linkedin.com/in/ttejuosho • https://ttejuosho.herokuapp.com
+                github.com/ttejuosho • linkedin.com/in/ttejuosho • https://ttejuosho.herokuapp.com
 
               Accomplished IT expert and early career software developer, looking to leverage experience in 
                full stack development and programming knowledge to make an impact and learning for growth.
