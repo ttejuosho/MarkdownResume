@@ -1,14 +1,13 @@
 Taiwo Tejuosho							   
 ===============
 
-                            312-647-6896 • ttejuosho@outlook.com • 60615, Chicago, IL
+                            312-647-6896 • ttejuosho@outlook.com • Chicago, IL
                 github.com/ttejuosho • linkedin.com/in/ttejuosho • https://ttejuosho.herokuapp.com
 
-              Accomplished IT expert and early career software developer, looking to leverage experience in 
-               full stack development and programming knowledge to make an impact and learning for growth.
+              With just over 2 years’ experience in software development, I have worked to expand my skillset and present work that I’m always proud of. Innovating and creating user-centered multi-layered web applications in .NET and JavaScript full stack development. I have projects in Ruby on Rails, React and developed a micro services prototype. 
 
 
-AREAS OF EXPERTISE
+TECHNICALL SKILLS
 --------------------
 
 * HTML5, CSS3, PHP & JavaScript
@@ -31,23 +30,12 @@ PROFESSIONAL EXPERIENCE
 **Sentinel Technologies Inc**  •  August 2018 - Present
 
 
-**Junior .NET Developer**
+**Full Stack Developer**
 * Developing new features in .NET Applications
 * Resolving issues arising and fixing bugs
 * Writing clean and scalable code using JavaScript and .NET Languages
 * Implementing UI designs and layouts for enterprise applications
 * Testing and deploying applications
- 
-**FREELANCER**  •  August 2017 – Present
-
-
-**Full Stack Web Developer**
-* Creating responsive webpages with CSS libraries like Bootstrap & Materialize
-* Implementing MVC architectural patterns & frameworks with Node Js
-* Developing web apps (front end & back end) to deployment stage
-* Testing, debugging and optimization of web apps
-* API development and 3rd party API integrations
-* Staying current on emerging web technologies & practices
 
 
 **Apple Inc.**  •  October 2015 - August 2018
@@ -64,11 +52,11 @@ PROFESSIONAL EXPERIENCE
 PROJECTS
 ---------
 
+* Surveneer - Helps create surveys, questionaires, or polls and presents data analysis on charts. Includes Auth0 authentication, real time notification of new responses with socket io and MVC architectural pattern.
+
 * Cove Markets – Built on Node Js with MySQL database. Major goal for this client was to develop a database for their mailing list. Cove market is a cryptocurrency startup in Chicago building tools for digital asset management.
 
 * RLM Chicago – Built with PHP and deployed to Heroku. RLM is an event planning company based in Chicago
-
-* PayCalc – Out of love for numbers, I created my own version of an income analysis web app including information on taxes & custom deductions using jQuery & Bootstrap
 
 * Res.Create – Lead a 4-developer team to build this resume creator web application. Implemented authentication for users with passport Js and used handlebars as templating engine
 * BooGle – connects to the Google Books API and supplies book information based on the query strings entered. Has a Material design UI that’s optimized for mobile
@@ -82,8 +70,7 @@ PROJECTS
 
 EDUCATION/CERTIFICATIONS
 -------------------------
-
-Expected October 2018
+April 2018
 
 
 Android Development Nanodegree, Udacity (Google Scholarship)
