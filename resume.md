@@ -4,7 +4,10 @@ Taiwo Tejuosho
                             312-647-6896 • ttejuosho@outlook.com • Chicago, IL
                 github.com/ttejuosho • linkedin.com/in/ttejuosho • https://ttejuosho.herokuapp.com
 
-              With just over 2 years’ experience in software development, I have worked to expand my skillset and present work that I’m always proud of. Innovating and creating user-centered multi-layered web applications in .NET and JavaScript full stack development. I have projects in Ruby on Rails, React and developed a micro services prototype. 
+              With just over 2 years’ experience in software development, I have worked to expand my skillset 
+              and present work that I’m always proud of. Innovating and creating user-centered multi-layered 
+              web applications in .NET and JavaScript full stack development. I have projects in Ruby on Rails, 
+                                      React and developed a micro services prototype. 
 
 
 TECHNICALL SKILLS
